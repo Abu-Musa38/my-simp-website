@@ -1,5 +1,16 @@
 .on{
     color:black;
     background-color: tomato;
-    git
+    margin: 20px;
+
+}
+.ton{
+    color:black;
+    background-color: rgb(71, 255, 83);
+    margin: 20px;
+}
+.pon{
+    color:black;
+    background-color: rgb(255, 71, 197);
+    margin: 20px;
 }
